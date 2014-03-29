@@ -1,0 +1,1 @@
+Javascript siteswap generator. Creates a CSV of siteswaps. Using this CSV for a set of known siteswaps for the gunswap siteswap animator.
